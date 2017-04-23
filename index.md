@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "TIP TOP"
 ---
 
 <div class="tiles">
